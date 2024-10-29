@@ -1,0 +1,7 @@
+C:\Users\yavuz\Source\Repos\SoruBir\SoruBir\bin\Debug\SoruBir.exe.config
+C:\Users\yavuz\Source\Repos\SoruBir\SoruBir\bin\Debug\SoruBir.exe
+C:\Users\yavuz\Source\Repos\SoruBir\SoruBir\bin\Debug\SoruBir.pdb
+C:\Users\yavuz\Source\Repos\SoruBir\SoruBir\obj\Debug\SoruBir.csprojAssemblyReference.cache
+C:\Users\yavuz\Source\Repos\SoruBir\SoruBir\obj\Debug\SoruBir.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\Source\Repos\SoruBir\SoruBir\obj\Debug\SoruBir.exe
+C:\Users\yavuz\Source\Repos\SoruBir\SoruBir\obj\Debug\SoruBir.pdb

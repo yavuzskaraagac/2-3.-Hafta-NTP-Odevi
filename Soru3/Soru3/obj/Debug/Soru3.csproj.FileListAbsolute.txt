@@ -1,0 +1,7 @@
+C:\Users\yavuz\Source\Repos\Soru3\Soru3\bin\Debug\Soru3.exe.config
+C:\Users\yavuz\Source\Repos\Soru3\Soru3\bin\Debug\Soru3.exe
+C:\Users\yavuz\Source\Repos\Soru3\Soru3\bin\Debug\Soru3.pdb
+C:\Users\yavuz\Source\Repos\Soru3\Soru3\obj\Debug\Soru3.csprojAssemblyReference.cache
+C:\Users\yavuz\Source\Repos\Soru3\Soru3\obj\Debug\Soru3.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\Source\Repos\Soru3\Soru3\obj\Debug\Soru3.exe
+C:\Users\yavuz\Source\Repos\Soru3\Soru3\obj\Debug\Soru3.pdb
